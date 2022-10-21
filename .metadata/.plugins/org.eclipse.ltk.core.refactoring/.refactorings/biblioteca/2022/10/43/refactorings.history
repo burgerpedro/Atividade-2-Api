@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;emprestimoDTO&apos; in &apos;br.com.residencia.biblioteca.service.EmprestimoService.toDTO2(...)&apos; to &apos;emprestimoAlunoDTO&apos;&#x0D;&#x0A;- Original project: &apos;biblioteca&apos;&#x0D;&#x0A;- Original element: &apos;br.com.residencia.biblioteca.service.EmprestimoService.toDTO2(Emprestimo).emprestimoDTO&apos;&#x0D;&#x0A;- Renamed element: &apos;emprestimoDTO&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;emprestimoDTO&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.residencia.biblioteca.service{EmprestimoService.java[EmprestimoService~toDTO2~QEmprestimo;@emprestimoDTO!4248!4302!4267!4279!QEmprestimoAlunoDTO;!0!false" name="emprestimoAlunoDTO" references="true" stamp="1666210309525" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.DTO.AlunoEmprDTO"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.DTO.EmprestimoAlunoDTO"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.DTO.EmprestimoDTO"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.entity.Emprestimo"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.residencia.biblioteca.entity.Aluno"/>
+</qualifiedTypeNameHistroy>
